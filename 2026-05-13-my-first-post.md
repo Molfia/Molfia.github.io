@@ -3,7 +3,7 @@
 大家好！这是我的新博客。我用 Markdown 来写作，可以很方便地：
 
 - 用**粗体**和*斜体*
-- 插入[链接](https://你的用户名.github.io)
+- 插入[链接](https://Molfia.github.io)
 - 写代码：`print("hello")`
 
 这篇文章的日期是 2026 年 5 月 13 日。
